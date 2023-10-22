@@ -4,4 +4,4 @@ A simple app to display 10 movies Using an API from [OMDb API](https://www.omdba
 
 I also added a small feature that supports the Enter key along side the search icon to display the search results
 
-https://github.com/Shayan32D/my-first-react-project/assets/116940776/c8e50f2c-ff70-4bf5-a28e-8e71b4938434
+![](https://github.com/Shayan32D/my-first-react-project/assets/116940776/f68b2672-efa9-4ff6-a660-61c5a7da3297)
